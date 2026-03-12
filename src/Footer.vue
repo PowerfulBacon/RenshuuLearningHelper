@@ -1,7 +1,6 @@
 <template>
 	<div class="footer">
-		Created by <a href="https://github.com/powerfulbacon">PowerfulBacon</a>, this application does not
-		store any data or contact any site except Renshuu.
+		Created by <a href="https://github.com/powerfulbacon">PowerfulBacon</a>, this application does not contact any site except Renshuu. Report an <a href="https://github.com/PowerfulBacon/RenshuuLearningHelper">issue here</a>.
 		<div class="requestsLeft" v-if="RequestsAllowed && RequestsUsed">
 			{{ RequestsAllowed - RequestsUsed }} requests left today, purchase Renshuu pro to increase this
 			amount.
