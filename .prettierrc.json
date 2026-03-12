@@ -1,0 +1,9 @@
+{
+  "extends": "@vue/prettier-config",
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "tabWidth": 1,
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false
+}

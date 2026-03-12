@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="renshuulearninghelper.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
